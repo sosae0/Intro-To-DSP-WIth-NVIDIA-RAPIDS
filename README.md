@@ -14,12 +14,3 @@ The main objective of this discussion is to apply basic DSP concepts to see how 
 This notebook will use [NVIDIA RAPIDS](https://rapids.ai/) APIs and libraries, they'll help us take advantage of the amazing GPU speeds and computing power. [cuSignal](https://github.com/rapidsai/cusignal) in particular is very similar to the popular Python [SciPy](https://scipy.org) API used in so many engineering and scientific applications. [CuPy](https://cupy.dev/) is also replacing the popular [NumPy](https://numpy.org/) API in this notebook to take advantage of the GPU processing power. 
 
 Why GPU processing you ask, well in a case where real-time processing is required, the faster the better so why not? You can handle higher sample rates, amongst other advantages. Professors, researchers, students, industry experts can easily leverage existing compatible GPUs they have to use RAPIDS. You don't have a supported GPU to run these APIs and libraries? Don't worry the CPU version of this notebook is included in the repository. Enough of the talk, now let's get into it. 
-
-The topics we will cover are:
-
-* Time Domain Signals
-* Frequency Domain Signals
-* FFT (Fast Fourier Transform)
-* Filters
-* Convolution
-* Spectogram
