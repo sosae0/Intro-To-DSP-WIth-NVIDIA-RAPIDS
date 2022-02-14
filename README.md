@@ -5,6 +5,8 @@ For the GPU notebook, all the codes were run on paperspace(cloud based platform 
 
 For the CPU notebook, I used an Apple M1 Pro laptop to run all codes.
 
+## Introduction
+
 You are wondering how technology companies manage to make amazing audio systems with clean and clear sounds, well here is the foundation. Thankfully python has become the go-to language for getting started with programing, engineers are also taking advantage of the language for more advance uses. You can learn more about getting started with python [here](https://www.learnpython.org/). 
 
 The main objective of this discussion is to apply basic DSP concepts to see how can we filter out noise from a music or audio recording. There are several applications and APIs that already do this with just function calls, but the aim of this discussion is to apply the basic concepts and introduce students or enthusiasts to DSP using a real world example and how things come together. There are obviously more efficient ways to go about this but that is not our aim for now. Future discussions will involve using machine learning to automatically detect noise and reproduce the desired music/sound. Another applicaton is in training a machine learning model to tell us where the aduio signal is coming from, maybe a hallway, party or an ocean front. I'll try not to inundate this notebook with DSP mathematical ewuati so even the non-engineers can follow. The Mathematics involved in DSP are 'FUN' but it is also nice to visualize these concepts as we learn. Follow closely and I hope you find it helpful.
