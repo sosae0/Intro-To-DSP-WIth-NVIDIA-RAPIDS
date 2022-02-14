@@ -1,5 +1,3 @@
-**Rerun the `Intro_DSP_GPU.ipynb` multiple times to open it, this might be fixed later.**
-
 # Intro-To-DSP-With-NVIDIA-RAPIDS
 This is an introductory notebook to Digital Signal Processing(DSP) using CuSignal and other NVIDIA RAPIDS open-source API. This notebook is still a work in progress and will constantly be updated as time goes on !!!
 
