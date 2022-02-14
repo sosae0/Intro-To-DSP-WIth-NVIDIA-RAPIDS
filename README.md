@@ -1,2 +1,2 @@
 # Intro-To-DSP-With-NVIDIA-RAPIDS
-This is an introductory notebook to DIgital Signal Processing using CuSignal and other NVIDIA RAPIDS open-source API
+This is an introductory notebook to Digital Signal Processing(DSP) using CuSignal and other NVIDIA RAPIDS open-source API
