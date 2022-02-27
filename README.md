@@ -1,7 +1,7 @@
 # Intro-To-DSP-With-NVIDIA-RAPIDS
 This is an introductory notebook to Digital Signal Processing(DSP) using CuSignal and other NVIDIA RAPIDS open-source API. This notebook is still a work in progress and will constantly be updated as time goes on !!!
 
-For the GPU notebook, all the codes were run on paperspace(cloud based platform to access RAPIDS container) since I do not have an NVIDIA GPU locally. I used a Free-P5000 GPU with 30 GB RAM and 8 CPUs
+For the GPU notebook, all the codes were run on paperspace(cloud based platform to access RAPIDS API) since I do not have an NVIDIA GPU locally. I used a Free-P5000 GPU with 30 GB RAM and 8 CPUs
 
 For the CPU notebook, I used an Apple macbook pro.
 
